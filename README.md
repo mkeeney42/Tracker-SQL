@@ -4,13 +4,13 @@
 Tracker-SQL is a command-line application designed to help business owners manage employee data, including departments, roles, and employee details. Built using Node.js, Inquirer, and PostgreSQL, this application allows for easy interaction with a company's employee database, enabling users to view, add, and update information seamlessly.
 
 ## Table of Contents
-Technologies Used
-Features
-Installation
-Usage
-Database Schema
-Future Enhancements
-License
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Database Schema](#database-schema)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
 
 ## Technologies Used
 Node.js: JavaScript runtime for server-side programming.
